@@ -1,33 +1,83 @@
 # <p align="center"> Bank Management System </p>
 
-This project was made under the Summer Training course `Advanced Data structure and Algorithm` by Extellon in the duration of May-June 2022.<br>
-This has many functionalities to provide the ease of work in the management of the banking system which includes :
-- Customers new accounts can be created.
-- Update the information of existing accounts.
-- Transactions like deposits and withdrawls can be done.
-- Check the details of existing accounts.
-- Delete the existing accounts.
-- View the customer's list.
-- Exit the screen.
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Tech Stack Used🚀
+<div id="top"></div>
+
+<h2>Table of Contents🧾</h2>
+
+- [Introduction📌](#introduction)
+- [Technology Used🚀](#technology-used)
+- [Getting Started💥](#getting-started)
+- [Overview⭐](#overview)
+- [Project Admin⚡](#project-admin)
+- [Learning is fun🧡](#learning-is-fun)
+<br>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Introduction📌</h2>
+
+This project was made under the Summer Training course `Advanced Data structure and Algorithm` by Extellon in the duration May-June 2022.
+This has many functionalities to provide the ease of work in the management of the banking system which includes :
+1. Customers new accounts can be created.
+2. Update the information of existing accounts.
+3. Transactions like deposits and withdrawls can be done.
+4. Check the details of existing accounts.
+5. Delete the existing accounts.
+6. View the customer's list.
+7. Exit the screen.
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Technology Used🚀</h2>
 
 <p>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/60/000000/c-programming.png"/></a>
+  <a href="https://www.cprogramming.com/"> <img src="https://img.icons8.com/color/70/000000/c-programming.png"/></a>
 </p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Run Local and Working Method💥
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-- Fork and Clone this repository.
-```bash
+<h2>Getting Started💥</h2>
+
+- Fork this repository.
+- Clone the forked repository in your local system.
+```
 git clone https://github.com/<your-github-username>/Bank-Management-System.git
 ```
-- Navigate to the project directory.
-```bash
-cd Bank-Management-System
-```
-- Open and run `Bank_Management_System.c` in your local code editor.
+- Open and run `Bank_Management_System.c` in your code editor like Visual Studio Code.
+- Enter the password `codewithrakesh` to login to the main system.
 - And proceed to the application workflow.
-- On creating an account will create a `record.dat` file in the local system that will work as a database and stores all the data of the accounts.
+- Workflow like creating an account will create a `record.dat` file in your local system that will work as a database and stores all the data of the accounts.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Overview⭐
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Overview⭐</h2>
+
+- ## `Home`
+![1](https://user-images.githubusercontent.com/73993775/189755969-66354353-b0ac-4d19-9542-1f2876c3dfea.png)
+- ## `Main Menu`
+![2](https://user-images.githubusercontent.com/73993775/189755979-91e51ecc-46e4-4044-8958-b89d28e6fdd6.png)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Project Admin⚡</h2>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="150px" width="150px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b></sub>
+</td>
+</tr>
+</table>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2>Learning is fun🧡</h2>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
+<p align="right">(<a href="#top">back to top</a>)</p>
