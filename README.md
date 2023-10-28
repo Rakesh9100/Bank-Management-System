@@ -35,6 +35,7 @@ This has many functionalities to provide the ease of work in the management of t
 <p>
   <a href="https://www.cprogramming.com/"> <img src="https://img.icons8.com/color/70/000000/c-programming.png"/></a>
 </p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -50,6 +51,7 @@ git clone https://github.com/<your-github-username>/Bank-Management-System.git
 - Enter the password `codewithrakesh` to login to the main system.
 - And proceed to the application workflow.
 - Workflow like creating an account will create a `record.dat` file in your local system that will work as a database and stores all the data of the accounts.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -60,6 +62,7 @@ git clone https://github.com/<your-github-username>/Bank-Management-System.git
 ![1](https://user-images.githubusercontent.com/73993775/189755969-66354353-b0ac-4d19-9542-1f2876c3dfea.png)
 - ## `Main Menu`
 ![2](https://user-images.githubusercontent.com/73993775/189755979-91e51ecc-46e4-4044-8958-b89d28e6fdd6.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -80,4 +83,6 @@ git clone https://github.com/<your-github-username>/Bank-Management-System.git
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
