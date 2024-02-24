@@ -1,4 +1,4 @@
-# <p align="center"> Bank Management System </p>
+# <p align="center">🏦Bank Management System🏦</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -85,4 +85,3 @@ git clone https://github.com/<your-github-username>/Bank-Management-System.git
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
